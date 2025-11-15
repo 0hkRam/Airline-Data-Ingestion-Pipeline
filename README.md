@@ -32,6 +32,8 @@ Data engineering solutions often require handling large volumes of incoming data
    Sends email notifications regarding the success or failure of the data ingestion process, ensuring that stakeholders are informed in real-time.
 
 ## 🏗️ Architecture Diagram
+![Airline Data Ingestion Pipeline Architecture](https://github.com/0hkRam/Airline-Data-Ingestion-Pipeline/blob/b9907eef58f1e1236c6977156ffc2a0bc51716ae/Project%20ScreenShots/Glue%20Job%20Architecture.png)
+
 
 ## 📚 Project Workflow
 
